@@ -27,7 +27,15 @@
 </a>
 
 <h3>What I do? 👨‍💻</h3>
-  <summary>Full Stack Developer 🍥 & System architect 💻 <summary>
+
+<details>
+  <summary>Full Stack Developer 🍥 & System architect 💻 </summary>
+  <ul>
+    <li>Full stack development using MEAN Stack and Ionic</li>
+    <li>System and Database Architecture Design</li>
+  </ul>
+</details>
+
 <details>
   <summary>Senior Software Engineer at <a href="https://www.chakravuyha.com/">Chakravuyha Software Technologies</a>
   </summary>
@@ -44,7 +52,7 @@
 <details>
   <summary>Opensource Contributor 📝</summary>
   <ul>
-    <li>You can also scroll down and get the information on my <a href="https://github.com/gsrdatta">github profile</a>.
+    <li>You can also scroll down and get the information on my <a href="https://github.com/gsrdatta?tab=repositories">github profile</a>.
     </li>
   </ul>
 </details>
