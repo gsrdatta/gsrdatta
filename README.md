@@ -28,7 +28,7 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-  <summary>Full Stack Developer 🍥 & System architect 💻 </summary>
+  <label>Full Stack Developer 🍥 & System architect 💻 <label>
 </details>
 <details>
   <summary>Senior Software Engineer at <a href="https://www.chakravuyha.com/">Chakravuyha Software Technologies</a>
