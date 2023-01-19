@@ -29,15 +29,16 @@
 <h3>What I do? 👨‍💻</h3>
 
 <details>
-  <summary>Full Stack Developer 🍥 & System architect 💻 </summary>
+  <summary>Full Stack Developer, Blockchain 🍥 & System architect 💻 </summary>
   <ul>
     <li>Full stack development using MEAN Stack and Ionic</li>
     <li>System and Database Architecture Design</li>
+    <li>Blockchain and Crypto Wallets</li>
   </ul>
 </details>
 
 <details>
-  <summary>Senior Software Engineer at <a href="https://www.chakravuyha.com/">Chakravuyha Software Technologies</a>
+  <summary>Lead Software Engineer at <a href="https://www.chakravuyha.com/">Chakravuyha Software Technologies</a>
   </summary>
   <ul>
     <li>Creating RESTful services using Node.Js and Express.Js </li>
