@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm <a href="https://gsrdatta.github.io/portfolio/">Siva Ramadatta Gandikota</a> 🚀</h1>
+<h1 align="center">Hi, I'm <a href="https://gsrdatta.github.io/portfolio/">Siva Ramadatta Gandikota</a> </h1>
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gsrdatta"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/linkedin.png" width="40" /></a>
-  <a href="https://github.com/gsrdatta"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/github-logo.png" width="40" /></a>
   <a href="mailto:gsrdatta@gmail.com"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/google-plus.png" width="40" /></a>
   <a href="https://twitter.com/gsrdatta"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/twitter.png" width="40" /></a>
   <a href="https://www.instagram.com/gsr_datta"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/instagram.png" width="40" /></a>
