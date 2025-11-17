@@ -1,83 +1,107 @@
-<h1>Hi there, I am <a href="https://gsrdatta.github.io/portfolio/">Siva Ramadatta Gandikota</a><img
-    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/gsrdatta/gsrdatta/blob/master/image.jpg" width="230" />
+<h1 align="center">Hi, I'm <a href="https://gsrdatta.github.io/portfolio/">Siva Ramadatta Gandikota</a> 🚀</h1>
 
-<a href="https://www.linkedin.com/in/gsrdatta">
-  <img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/linkedin.png" width="40" />
-</a>
 
-<a href="https://github.com/gsrdatta">
-  <img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/github-logo.png" width="40" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gsrdatta"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/linkedin.png" width="40" /></a>
+  <a href="https://github.com/gsrdatta"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/github-logo.png" width="40" /></a>
+  <a href="mailto:gsrdatta@gmail.com"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/google-plus.png" width="40" /></a>
+  <a href="https://twitter.com/gsrdatta"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/twitter.png" width="40" /></a>
+  <a href="https://www.instagram.com/gsr_datta"><img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/instagram.png" width="40" /></a>
+</p>
 
-<a href="https://www.facebook.com/gsrdatta/">
-  <img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/facebook.png" width="40" />
-</a>
+---
 
-<a href="mailto:gsrdatta@gmail.com">
-  <img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/google-plus.png" width="40" />
-</a>
+## 🚀 About Me  
 
-<a href="https://twitter.com/gsrdatta">
-  <img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/twitter.png" width="40" />
-</a>
+I'm a **Senior Full Stack Engineer**, **Blockchain Developer**, and **System Architect** with **10+ years of experience** building production-grade applications, scalable architectures, and cloud-native systems.
 
-<a href="https://www.instagram.com/gsr_datta">
-  <img src="https://github.com/gsrdatta/gsrdatta/blob/master/logos/instagram.png" width="40" />
-</a>
+Currently working as a **Technical Consultant at Uniquode Application Specialists LLP**, helping clients and teams architect, optimize, and ship high-impact products.
 
-<h3>What I do? 👨‍💻</h3>
+Previously, as Lead Software Engineer at **Chakravuyha Software Technologies**, I engineered:
+- Scalable, high-availability backends using Node.js & Express  
+- Blockchain wallet systems, transaction services & monitoring pipelines  
+- Web & mobile frontends (Angular, React, React Native, Ionic)  
+- Large enterprise architectures deployed on AWS  
+
+I specialize in taking ideas from  
+**concept → architecture → development → deployment → scale**.
+
+---
+
+## 🧠 What I Do
 
 <details>
-  <summary>Full Stack Developer, Blockchain 🍥 & System architect 💻 </summary>
+  <summary><strong>Full Stack & Mobile Development</strong></summary>
   <ul>
-    <li>Full stack development using MEAN Stack and Ionic</li>
-    <li>System and Database Architecture Design</li>
-    <li>Blockchain and Crypto Wallets</li>
+    <li>Angular, React & React Native</li>
+    <li>MEAN Stack (MongoDB, Express, Angular, Node)</li>
+    <li>Ionic hybrid app development</li>
+    <li>Cross-platform mobile apps</li>
   </ul>
 </details>
 
 <details>
-  <summary>Lead Software Engineer at <a href="https://www.chakravuyha.com/">Chakravuyha Software Technologies</a>
-  </summary>
+  <summary><strong>Backend Engineering & Architecture</strong></summary>
   <ul>
-    <li>Creating RESTful services using Node.Js and Express.Js </li>
-    <li>Working on Ethereum and Bitcoin Blockchains (creating Wallets,Transactions and Tracking Incoming Transactions)</li>
-    <li>Conceptualize, develop, and test UI, core functionalities for Web Applications</li>
-    <li>Designed and developed core features for many applications</li>
-    <li>Web and mobile Front-end development using Angular, Ionic, HTML5, CSS</li>
-    <li>Construction of Project & Database Architecture for various projects</li>
+    <li>Node.js, Express.js, Loopback.js</li>
+    <li>Microservices, event-driven systems</li>
+    <li>Database modeling & system architecture</li>
+    <li>Performance tuning & scalability design</li>
   </ul>
 </details>
 
 <details>
-  <summary>Opensource Contributor 📝</summary>
+  <summary><strong>Blockchain Development</strong></summary>
   <ul>
-    <li>You can also scroll down and get the information on my <a href="https://github.com/gsrdatta?tab=repositories">github profile</a>.
-    </li>
+    <li>Wallet creation & transaction management</li>
+    <li>ETH / BTC / LTC / XRP / ERC-20 integrations</li>
+    <li>Smart contract interactions</li>
+    <li>Secure blockchain pipelines</li>
   </ul>
 </details>
 
-<h3>My Tech Stack 👨‍💻</h3>
-<ul>
-  <li>Node.Js</li>
-  <li>Angular</li>
-  <li>Ionic</li>
-  <li>MongoDB</li>
-  <li>Express.Js</li>
-  <li>loopback.Js</li>
-  <li>Docker</li>
-  <li>GraphQL</li>
-  <li>Kubernetes</li> 
-  <li>AWS (S3,SNS,SQS,EC2,Lambda)</li>
-  <li>Blockchain (ETH,BTC,LTC,XRP,ERC-20)</li>
-</ul>
+<details>
+  <summary><strong>Cloud, DevOps & Leadership</strong></summary>
+  <ul>
+    <li>Docker, Kubernetes, CI/CD automation</li>
+    <li>AWS (S3, SQS, SNS, EC2, Lambda)</li>
+    <li>Leading engineering teams & mentoring developers</li>
+    <li>End-to-end product delivery & architecture ownership</li>
+  </ul>
+</details>
 
-<h3>What if you like my work? 🤩</h3>
-<ul>
-  <li>You can Star ⭐ the repositories you like.</li>
-  <li>You can react ❤️ to my LinkedIn posts.</li>
-</ul>
+---
 
-[![Datta Gsr's Github
-Stats](https://github-readme-stats.vercel.app/api?username=gsrdatta&show_icons=true&count_private=true)](https://github.com/gsrdatta/github-readme-stats)
+## 🧰 Tech Stack
+
+**Frontend**
+- Angular • React • React Native • Ionic  
+- HTML5 • CSS3 • TypeScript  
+
+**Backend**
+- Node.js • Express.js • Loopback.js  
+- MongoDB • GraphQL • REST APIs  
+
+**Blockchain**
+- Ethereum • Bitcoin • Litecoin • XRP • ERC-20  
+
+**Cloud & DevOps**
+- Docker • Kubernetes  
+- AWS (EC2, Lambda, S3, SQS, SNS)  
+- CI/CD • Microservices  
+
+---
+
+## ⭐ If You Like My Work
+
+- ⭐ Star my repositories  
+- ❤️ Support my posts on LinkedIn  
+- 🔗 Feel free to connect or collaborate!  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gsrdatta&show_icons=true&count_private=true" />
+</p>
